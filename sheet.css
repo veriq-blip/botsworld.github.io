@@ -1,0 +1,487 @@
+#opening{
+    font-size: 25pt;
+font-family: verdana;
+    }
+.header {
+  padding: 1px; /* some padding */
+  text-align: center; /* center the text */
+   background: #808080;/* green background */
+  color: white; /* white text color */
+}
+
+/* Increase the font size of the <h1> element */
+.header h1 {
+  font-size: 40px;
+}
+body{
+    background-color: #181818;
+    
+    
+    
+}
+.lol{text-decoration: none;
+   text-align: center;
+    display: inline-block;
+    color: #181818;
+    font-family: verdana;
+    margin-left: 16%;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+ background-color: black;
+  color: white;
+  border: 2px solid #FFFFFF;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+transition-duration: 0.4s;
+font-size: 12px;
+}
+.lol:hover{background-color: white; /* Green */
+ color: black;}
+#mi{text-decoration: none;
+    color: aliceblue;
+    font-family: verdana;
+    font-style: oblique;
+    font-size: 24px;
+    margin-left: 20px;
+    padding-right: 16px;
+    background-color: black;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #FFFFFF;
+    padding-bottom:16px;
+    padding-left: 16px;
+    padding-top: 16px;
+}
+#veriq{
+    margin-top: 50px;
+    padding-top: 50px;
+    
+}
+#mi:hover{background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #008CBA;
+color: black}
+#veriq:hover{ 
+border: 2px solid #FFFF;
+padding: 0px 0px 0px 0px}
+#Lriq{
+    margin-top: 50px;
+    padding-top: 50px;
+    
+}
+#Lriq:hover{ 
+border: 2px solid #FFFF;
+padding: 0px 0px 0px 0px;
+max-width: none;}
+#hi{text-decoration: none;
+    color: aliceblue;
+    font-family: verdana;
+    font-style: oblique;
+    font-size: 24px;
+    margin-left: 20px;
+    padding-right: 16px;
+    background-color: black;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #FFFFFF;
+    padding-bottom:16px;
+    padding-left: 16px;
+    padding-top: 16px;
+    
+}
+#hi:hover{background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #008CBA;
+color: black}
+.yt{
+text-decoration: none;
+    color: aliceblue;
+    font-family: verdana;
+    font-style: oblique;
+    font-size: 24px;
+    margin-left: 20px;
+    padding-right: 16px;
+    background-color: black;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #FFFFFF;
+    padding-bottom:16px;
+    padding-left: 16px;
+    padding-top: 16px;
+}
+.yt:hover{background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #008CBA;
+color: black}
+#br{
+    margin-top: 50px;
+    padding-top: 50px;
+    
+}
+#br:hover{ 
+border: 2px solid #FFFF;
+padding: 0px 0px 0px 0px}
+#ko{
+    padding: 3% 3% 3% 3%;
+    width: 100px;
+    margin-top: 3%;
+     border: 2px solid #FFFF;
+    
+}
+.F{float: right;
+margin-right: 30%;
+margin-top: 5%;}
+#L{
+    font-family: verdana;
+    font-size: 42px;
+    padding: 0px;
+    color: purple;
+   ;
+}
+#F{
+    text-decoration: none;
+    font-family: verdana;
+    font-size: 42px;
+    border: 2px solid #FFFF;
+    padding: 8px 8px 8px 8px;
+    float: right;
+    margin-top: 0px;
+    margin-left: 30%;
+    color: aliceblue
+}
+#F:hover{
+    color: purple;
+    background-color: white;
+    border: 2px solid #800080;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+    margin-top: 5px
+}
+#il{border: 2px solid #696969;
+padding-top: 3px;
+border-top-width: medium;
+    padding-right: 1%;
+    padding-left: 1%;
+    padding-bottom: 7%;
+    margin-top: 40px;
+}
+#m {font-family: verdana;
+    font-size: 42px;
+    padding: 0px;
+    color: lightblue;
+}
+#n{
+    text-decoration: none;
+    font-family: verdana;
+    font-size: 42px;
+    border: 2px solid #FFFF;
+    padding: 8px 8px 8px 8px;
+    float: right;
+    margin-top: 0px;
+    margin-left: 30%;
+    color: aliceblue
+}
+#n:hover{
+    color: lightblue;
+    background-color: white;
+    border: 2px solid #ADD8E6;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+    margin-top: 5px
+}
+#h{font-family: verdana;
+    font-size: 42px;
+    padding: 0px;
+    color: blue;}
+#i{
+    text-decoration: none;
+    font-family: verdana;
+    font-size: 42px;
+    border: 2px solid #FFFF;
+    padding: 8px 8px 8px 8px;
+    float: right;
+    margin-top: 0px;
+    margin-left: 30%;
+    color: white
+}
+#i:hover{
+    color: blue;
+    background-color: white;
+    border: 2px solid #008CBA;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+    margin-top: 5px
+}
+#ko:hover{
+    width: 200px;
+    backface-visibility: hidden;
+    border-style: dotted;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+}
+#j{font-family: verdana;
+    font-size: 42px;
+    padding: 0px;
+    color: aliceblue;}
+#g{
+    text-decoration: none;
+    font-family: verdana;
+    font-size: 42px;
+    border: 2px solid #FFFF;
+    padding: 8px 8px 8px 8px;
+    float: right;
+    margin-top: 0px;
+    margin-left: 30%;
+    color: white
+}
+#g:hover{
+    color: black;
+    background-color: white;
+    border: 2px solid #181818;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+    margin-top: 5px
+}
+.go{
+    margin-left: 6%;
+    margin-top: 3%
+ 
+   
+}
+.ty{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: verdana;
+    font-style: oblique;
+    font-size: 24px;
+    padding: 8px 16px 8px 16px;
+    border: 2px solid #ffff;
+    background-color: black;
+    margin-left: 144px;
+    
+}
+
+#al{text-decoration: none;
+    font-family: verdana;
+    font-size: 42px;
+    color: aliceblue;
+    background-color: black;
+    border: 2px solid #ffff;
+   margin-left: 9.7%;
+    padding: 8px 16px 8px 16px;
+}
+#cl{text-decoration: none;
+    font-family: verdana;
+    font-size: 42px;
+    color: aliceblue;
+    background-color: black;
+    border: 2px solid #ffff;
+   margin-left: 2.9%;
+padding: 8px 16px 8px }
+#me {text-decoration: none;
+    font-family: verdana;
+    font-size: 42px;
+    color: aliceblue;
+    background-color: black;
+    border: 2px solid #ffff;
+   margin-left: 5.1%;
+padding: 8px 16px 8px }
+#ba:hover{background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #008CBA;
+color: black;
+    transition-duration: 0.4s;
+}
+#al:hover{background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #008CBA;
+color: black;
+    transition-duration: 0.4s;
+}
+#me:hover{background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #008CBA;
+color: black;
+    transition-duration: 0.4s; 
+    padding-top: 10px
+}
+#cl:hover{background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #008CBA;
+color: black;
+    transition-duration: 0.4s;
+}
+.ok:hover{
+     border: 2px solid #008CBA;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+    margin-bottom: 10px
+}
+#rky{text-decoration: none;
+    font-family: verdana;
+    font-size: 42px;
+    color: aliceblue;
+    background-color: black;
+    border: 2px solid #ffff;
+    padding: 8px 16px 8px 16px;
+margin-left: 11%}
+#aal{text-decoration: none;
+    font-family: verdana;
+    font-size: 42px;
+    color: aliceblue;
+    background-color: black;
+    border: 2px solid #ffff;
+    padding: 8px 16px 8px 16px;
+margin-left: 14.5%}
+#ev{text-decoration: none;
+    font-family: verdana;
+    font-size: 42px;
+    color: aliceblue;
+    background-color: black;
+    border: 2px solid #ffff;
+    padding: 8px 16px 8px 16px;
+margin-left: 13%}
+#san{text-decoration: none;
+    font-family: verdana;
+    font-size: 42px;
+    color: aliceblue;
+    background-color: black;
+    border: 2px solid #ffff;
+    padding: 8px 16px 8px 16px;
+margin-left: 6.7%}
+#aal:hover{background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #008CBA;
+color: black;
+    transition-duration: 0.4s; 
+    padding-top: 10px
+}
+#ev:hover{background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #008CBA;
+color: black;
+    transition-duration: 0.4s; 
+    padding-top: 10px
+}
+#san:hover{background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #008CBA;
+color: black;
+    transition-duration: 0.4s; 
+    padding-top: 10px
+}
+#rky:hover{background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #008CBA;
+color: black;
+    transition-duration: 0.4s; 
+    padding-top: 10px
+}
+#ab{text-decoration: none;
+    font-family: verdana;
+    font-size: 30px;
+    color: aliceblue;
+    background-color: black;
+    border: 2px solid #ffff;
+    padding: 8px 16px 8px 16px;
+margin-left: 5%}
+#tu{
+    text-decoration: none;
+    font-family: verdana;
+    font-size: 42px;
+    color: aliceblue;
+    background-color: black;
+    border: 2px solid #ffff;
+    padding: 8px 16px 8px 16px;
+margin-left: 4.7%
+}
+#a{text-decoration: none;
+    font-family: verdana;
+    font-size: 42px;
+    color: aliceblue;
+    background-color: black;
+    border: 2px solid #ffff;
+    padding: 8px 16px 8px 16px;
+margin-left: 7.2%}
+#ai{text-decoration: none;
+    font-family: verdana;
+    font-size: 42px;
+    color: aliceblue;
+    background-color: black;
+    border: 2px solid #ffff;
+    padding: 8px 16px 8px 16px;
+margin-left: 7%}
+#ai:hover{background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #008CBA;
+color: black;
+    transition-duration: 0.4s; 
+    padding-top: 10px
+}
+#a:hover{background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #008CBA;
+color: black;
+    transition-duration: 0.4s; 
+    padding-top: 10px
+}
+#ab:hover{background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #008CBA;
+color: black;
+    transition-duration: 0.4s; 
+    padding-top: 10px
+}
+#tu:hover{background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #008CBA;
+color: black;
+    transition-duration: 0.4s; 
+    padding-top: 10px
+}
+.pic{
+    margin-top: 2%;
+    margin-left: 1%;
+}
+.box{
+    text-decoration: none;
+    font-family: verdana;
+    font-size: 42px;
+    color: aliceblue;
+    background-color: black;
+    border: 2px solid #ffff;
+    padding: 8px 16px 8px 16px;
+    float: left;
+
+   
+}
+
+.box:hover{background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #008CBA;
+color: black;
+    transition-duration: 0.4s; 
+    padding-top: 0;
+}
+.ho{
+    padding-left: 1%;
+    padding-top: 1%;
+}
+.des{
+    font-family: verdana;
+    color: aliceblue;
+    margin-right: 2%
+}
+.dj{font-family: verdana;
+    color: aliceblue;
+    margin-right: 2%}
+.ho:hover{
+     border: 2px solid #008CBA;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+    padding: 0;
+    
+    
+}
+.pic{
+    border: 2px solid #fff;
+    padding-top: 10px;
+padding-left: 10px}
